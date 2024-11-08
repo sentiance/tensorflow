@@ -48,7 +48,7 @@ from setuptools.dist import Distribution
 # result for pip.
 # Also update tensorflow/tensorflow.bzl and
 # tensorflow/core/public/version.h
-_VERSION = '2.16.1'
+_VERSION = '2.16.1-sentiance.1'
 
 
 # We use the same setup.py for all tensorflow_* packages and for the nightly
